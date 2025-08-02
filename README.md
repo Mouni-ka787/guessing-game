@@ -7,9 +7,7 @@ Guess the Number is a simple interactive game where the player tries to guess a 
 🕹️ Features
 
     Random number generation
-
     User input with prompt
-s
     Feedback after each guess
 
     Optional number of attempts or difficulty levels (if implemented)
